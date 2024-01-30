@@ -3,6 +3,10 @@
 This is a very simple project in which we include the expenses that we are going to make and its total price.
 Also, using a style very similar to Windows 98.
 
+![Captura](https://github.com/oscarantonr/budget-calculator/assets/17764018/a3263a52-7a15-4f35-8832-60262533ea9c)
+
+![Captura1](https://github.com/oscarantonr/budget-calculator/assets/17764018/d0a785db-84f8-4344-9d79-ae7c1fc3d2a2)
+
 ## How to run it on local host
 
 In the project directory, you can run:
